@@ -1,3 +1,4 @@
+
 place-image(
   rectangle(300, 200, "outline", "black"),
   150,
@@ -30,3 +31,4 @@ rectangle(500, 400, "solid", "crimson"),
                 )
               )
             )
+  
